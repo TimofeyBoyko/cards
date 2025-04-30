@@ -17,6 +17,7 @@ const getCards = async (signal?: AbortSignal): Promise<Card[] | Error> => {
           "Content-Type": "application/json",
         },
         signal,
+        cache: "no-store",
       }
     );
 
