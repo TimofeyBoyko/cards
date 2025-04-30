@@ -1,5 +1,9 @@
 # Cards Application
 
+## Deployed app
+
+https://cards-sigma-tawny.vercel.app/cards
+
 ## Installation
 
 To install the dependencies, run:
