@@ -1,9 +1,5 @@
 # Cards Application
 
-## Deployed app
-
-https://cards-sigma-roan.vercel.app/cards
-
 ## Installation
 
 To install the dependencies, run:
@@ -11,6 +7,10 @@ To install the dependencies, run:
 ```bash
 npm install
 ```
+
+## Running the app
+
+To start the development server:
 
 ```bash
 npm run dev

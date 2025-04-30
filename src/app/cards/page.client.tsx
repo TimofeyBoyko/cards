@@ -37,7 +37,7 @@ export default function PageClient({
         </p>
         <button
           onClick={updateCards}
-          className="border border-gray-300 rounded-md px-4 py-2 mt-4 cursor-pointer hover:border-gray-500 transition-colors"
+          className="border border-gray-300 rounded-md px-4 py-2 mt-4 h-12 cursor-pointer hover:border-gray-500 transition-colors"
         >
           Повторить
         </button>
