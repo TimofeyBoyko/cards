@@ -16,8 +16,7 @@ const getCards = async (signal?: AbortSignal): Promise<Card[] | Error> => {
         headers: {
           "Content-Type": "application/json",
         },
-        cache: "no-store", // Disable caching to always fetch fresh data
-        signal, // Pass the abort signal to allow cancellation
+        signal,
       }
     );
 
